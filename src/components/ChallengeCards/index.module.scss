@@ -1,0 +1,14 @@
+.arrangeCards{
+    
+    padding: 30px;
+}
+.arrangeCards::before{
+    content: "\a";
+    white-space: pre;
+}
+.arrange::before{
+    content: "\a";
+    white-space: pre;
+}
+
+ 
